@@ -1,0 +1,2340 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anthems to be sung at the celebration of divine service, in the cathedrall church of the holy and undivided trinity in Dublin.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 97 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01417</idno>
+            <idno type="STC">Wing A3473</idno>
+            <idno type="STC">ESTC R170335</idno>
+            <idno type="EEBO-CITATION">47012967</idno>
+            <idno type="OCLC">ocm 47012967</idno>
+            <idno type="VID">174279</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01417)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174279)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2681:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anthems to be sung at the celebration of divine service, in the cathedrall church of the holy and undivided trinity in Dublin.</title>
+               </titleStmt>
+               <extent>[5], 33, 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,]</publisher>
+                  <pubPlace>[Dublin :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Without music.</note>
+                  <note>Place of publication suggested by Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: Trinity College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hymns --  Devotional use.</term>
+               <term>Hymns, Irish.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174279:1"/>
+            <pb facs="tcp:174279:2"/>
+            <pb facs="tcp:174279:2"/>
+            <p>ANTHEMS, To be Sung At the Celebration of <hi>DIVINE SERVICE,</hi> IN The Cathedrall Church of the Holy and Vndivided Trinity in <hi>D<g ref="char:V">Ʋ</g>BLIN.</hi>
+            </p>
+            <q>
+               <p>Let the word of Chriſt dwell in you richly, in all wiſdom, teaching and admoniſhing one another in Pſalms, and Hymns, and ſpiri<g ref="char:EOLhyphen"/>tuall Songs, ſinging with Grace in your hearts to the Lord,</p>
+               <bibl>COL. 3.16.</bibl>
+            </q>
+            <p>Printed <hi>Anno Domini,</hi> 1662.</p>
+         </div>
+         <div type="index">
+            <pb facs="tcp:174279:3"/>
+            <pb facs="tcp:174279:3"/>
+            <head>
+               <g ref="char:leaf">❧</g> An Alphabeticall Table.</head>
+            <list>
+               <head>A</head>
+               <item>Anthem 4 <hi>ALmightie God, which by the leading of a Star,</hi> Page 3</item>
+               <item>Anthem 43 <hi>Ariſe O Lord,</hi> Page 28</item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>Anthem 1 <hi>Behold I bring you glad tidings,</hi> Page 1</item>
+               <item>Anthem 21 <hi>Behold thou haſt made my dayes,</hi> Page 13</item>
+               <item>Anthem 26 <hi>Bleſſed are all they that fear the Lord,</hi> Page 17</item>
+               <item>Anthem 25 <hi>Bow down thine ear, O Lord,</hi> Page 16</item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>Anthem 9 <hi>Chriſt riſing,</hi> Page 6</item>
+            </list>
+            <list>
+               <head>D</head>
+               <item>Anthem 10 <hi>Deliver me O God,</hi> Page 7</item>
+               <item>Anthem 24 <hi>Deliver me from mine enemies,</hi> Page 15</item>
+            </list>
+            <list>
+               <head>E</head>
+               <item>Anthem 27 <hi>Everlaſting God.</hi> Page 17</item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>Anthem 14 <hi>Glorious and powerfull God,</hi> Page 9</item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>Anthem 6 <hi>Hear my cry, O God,</hi> Page 4</item>
+               <item>Anthem 16 <hi>How long?</hi> Page 10</item>
+               <item>Anthem 22 <hi>Hear my Prayer, O God,</hi> Page 14</item>
+               <item>Anthem 29 <hi>Hear me when I call,</hi> Page 18</item>
+               <item>Anthem 30 <hi>Hear me O Lord,</hi> Page 19</item>
+               <item>Anthem 28 <hi>Hear my Prayer O God,</hi> Page 18</item>
+            </list>
+            <pb facs="tcp:174279:4"/>
+            <list>
+               <head>I</head>
+               <item>Anthem 32 <hi>I will magnify thee O Lord,</hi> Page 28</item>
+               <item>Anthem 34 <hi>If ye be riſen again with Chriſt,</hi> Page 22</item>
+               <item>Anthem 33 <hi>I will magnify thee O Lord,</hi> Page 21</item>
+               <item>Anthem 35 <hi>I will ſing the mercies of the Lord,</hi> Page 22</item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>Anthem 36 <hi>Let God ariſe,</hi> Page 23</item>
+            </list>
+            <list>
+               <head>O</head>
+               <item>Anthem 2 <hi>O clap your hands all ye people,</hi> Page 1</item>
+               <item>Anthem 8 <hi>O Lord thou hast ſearched me out,</hi> Page 5</item>
+               <item>Anthem 11 <hi>O Lord of whom I do depend,</hi> Page 7</item>
+               <item>Anthem 18 <hi>O Lord turn not away thy face,</hi> Page 12</item>
+               <item>Anthem 19 <hi>O Lord conſider my diſtreſs,</hi> Page 13</item>
+               <item>Anthem 23 <hi>O Lord let me know mine end,</hi> Page 15</item>
+               <item>Anthem 31 <hi>O Lord in thee is all my truſt,</hi> Page 19</item>
+               <item>Anthem 38 <hi>O God the King of Glory.</hi> Page 24</item>
+               <item>Anthem 37 <hi>Out of the deep.</hi> Page 24</item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>Anthem 41 <hi>Praiſe the Lord,</hi> Page 26</item>
+               <item>Anthem 17 <hi>Preſerve me O God.</hi> Page 11</item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>Anthem 13 <hi>Soul awake.</hi> Page 9</item>
+            </list>
+            <list>
+               <head>T</head>
+               <item>Anthem 12 <hi>Teach me O Lord.</hi> Page 8</item>
+               <item>Anthem 7 <hi>Thou art my King O God.</hi> Page 5</item>
+               <item>Anthem 15 <hi>Thou God that guideſt,</hi> Page 10</item>
+               <item>Anthem 20 <hi>The ſecret ſins,</hi> Page 13</item>
+               <item>Anthem 39 <hi>The King ſhall rejoyce.</hi> Page 25</item>
+            </list>
+            <list>
+               <head>W</head>
+               <item>Anthem 3 <hi>What Child was be?</hi> Page 2</item>
+               <item>Anthem 5 <hi>Who ſhall aſcend into the Hill of the Lord?</hi> Page 3</item>
+               <item>Anthem 40 <hi>We praiſe thee O Father,</hi> Page 26</item>
+               <item>Anthem 42 <hi>When <hi>Iſrael</hi> came out of <hi>Egypt.</hi>
+                  </hi> Page 27</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="collection">
+            <pb n="1" facs="tcp:174279:4"/>
+            <div n="1" type="anthem">
+               <head>Anth. I. <hi>Behold! I bring you glad tidings.</hi>
+               </head>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>er.</speaker>
+                  <p>
+                     <hi>BEhold! I bring you glad tidings,</hi> glad tidings of great joy, of great joy, glad tidings of great joy.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Glad tidings of great joy.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>That ſhall be to all thy people; that unto us, that unto us a Child is born.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>That unto us a Child is born.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Vnto us a Son is given, a Saviour which is Chriſt the Lord, a Saviour which is Chriſt the Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Vnto us a Son is given, a Saviour which is Chriſt the Lord, which is Chriſt the Lord, which is Chriſt the Lord, which is Chriſt the Lord, which is Chriſt the Lord, which is Chriſt the Lord, which is Chriſt the Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Glory be to God on high, and in earth peace, and in earth peace: good will towards men, good will towards men.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Glory be to God on high, glory be to God on high, glory be to God on high, glory be to God on high, on high: and in earth peace, and in earth peace, good will towards men, good will to<g ref="char:EOLhyphen"/>wards men, towards men.</p>
+               </sp>
+               <closer>
+                  <signed>M. Gibbons.</signed>
+               </closer>
+            </div>
+            <div n="2" type="anthem">
+               <head>Anth. II. <hi>O Clap your Hands.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>for 2 means</stage> 
+                     <hi>O Clap your hands together all ye People,</hi> O ſing unto God, O ſing unto God, O ſing unto God, O ſing unto God with the voice of Melody, of Melody, with the voice of Melody, of Melody, with the voice of Melody, of Melody.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>For the Lord is high and to be feared, and to be feared; He is the great King, He is the great King upon all the earth, upon all the earth, upon all the earth,</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>three parts.</stage> He ſhall ſubdue the people under us: and the Nations under our feet, the Nations under our feet.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>He ſhall chooſe out an heritage for us, even the worſhip of <hi>Iacob,</hi> even the worſhip of <hi>Iacob,</hi> of <hi>Iacob</hi> whom he loved, he loved.</p>
+               </sp>
+               <pb n="2" facs="tcp:174279:5"/>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>for 2 Means</stage> God is gone up with a mery noyſe, God is gone up with a mery noyſe, with a mery noyſe, with a mery noyſe: And the Lord with the ſound of the Trumpet, with the ſound of the Trumpet, with the ſound of the Trumpet, with the ſound of the Trumpet, of the Trumpet.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>With the ſound of the Trumpet, with the ſound of the Trumpet.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>two tenors.</stage> O ſing praiſes, ſing praiſes, O ſing praiſes, ſing praiſes unto God, O ſing praiſes unto God, ſing praiſes unto God, ſing praiſes unto God.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>O ſing praiſes, ſing praiſes to our King: O ſing praiſes, ſing praiſes to our King.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>For God is the King of all the earth, for God is the King of all the earth, ſing praiſes, ſing praiſes, ſing praiſes, ſing praiſes, ſing praiſes, ſing praiſes, ſing praiſes, ſing praiſes, with underſtanding, with underſtanding.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>With underſtanding, with underſtanding, A-men, A-men, A-men, A-men.</p>
+               </sp>
+            </div>
+            <div n="3" type="anthem">
+               <head>Anth. III. <hi>What Child was he?</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>WHat Child was he?</hi> whoſe Birth did Angels glad, whoſe guide was Grace, whoſe youth all knowledge had, whoſe youth all knowledge had: 'Twas Jeſus Chriſt, 'Twas Jeſus Chriſt the Son of God, the Son of God: who darkneſs, death, deſpair; with light, with life, with light, with life, with joyes, with bliſs repaires.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Then let us praiſe him moſt and love him beſt, by whom alone we moſt are, by whom alone we moſt are lov'd and bleſt, by whom alone we moſt are lov'd and bleſt, are lov'd and bleſt, and bleſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>What man was he whom ſin did ne're defile, whoſe heart, whoſe tongue, whoſe hands, whoſe heart, whoſe hands were void of guille.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>'Twas Jeſus Chriſt our ſaving health, our ſaving health, who Sin and Satan bound by ſcornes, by ſtripes, by ſcornes, by ſtripes, by death, and bloudy wounds, by death, and bloudy wounds, by death and bloudy wounds.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho</speaker>
+                  <p>From us all love and glory he deſerves, who for us, love and glory thus preſerves, who for us love and glory thus preſerves, who for us love and glory thus preſerves.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>What one was he from grave his body rais'd, and now in Heaven by Saints and Angels prais'd, by Saints and Angels prais'd? 'Tis Jeſus Chriſt our Lord and King, our Lord and King, that ſits at Gods right hand, before whoſe Throne, before whoſe Throne, ſhall all for Judgement ſtand.</p>
+               </sp>
+               <pb n="3" facs="tcp:174279:5"/>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>This Jeſus grant us mercy, love, and grace, that we in Heaven with him, that we in Heaven with him may have a place, that we in Heaven with him may have a place, that we in Heaven with him may have a place; in Heaven may have a place. A-men, A-men.</p>
+               </sp>
+            </div>
+            <div n="4" type="anthem">
+               <head>Anth. IIII. <hi>Almighty God, which by the leading of a Star.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>for 2 Means</stage> 
+                     <hi>ALmighty God, which by the leading of a Star,</hi> of a Star, didſt mani<g ref="char:EOLhyphen"/>feſt, didſt manifeſt thy onely begotten Son, begotten Son to the Gentiles.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Didſt manifeſt thy onely begotten Son to the Gentiles, thy onely begotten Son to the Gentiles, to the Gentiles, to the Gentiles.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>two parts.</stage> Mercifully grant, mercifully grant, mercifully grant.</p>
+                  <p>
+                     <stage>three parts.</stage> That we which know thee now by Faith, which know thee now by Faith, which know thee now by Faith.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Which know thee now by Faith, which know thee now by Faith, which know thee now by Faith, which know thee now by Faith, which know thee now by Faith.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>ſix parts.</stage> May after this life, may after this life, may after this life, this life, may after this life, may after this life, may after this life have the fruition of thy glorious Godhead, through Chriſt our Lord, through Chriſt our Lord, through Chriſt our Lord, through Chriſt our Lord, through Chriſt our Lord, through Chriſt our Lord, our Lord, through Chriſt our Lord, through Chriſt our Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>May after this life have the fruition of thy glorious Godhead, through Chriſt our Lord, our Lord, through Chriſt our Lord, our Lord, through Chriſt our Lord, through Chriſt our Lord, through Chriſt our Lord, through Chriſt our Lord, through Chriſt our Lord, through Chriſt our Lord, through Chriſt our Lord, through Chriſt our Lord, our Lord, A-men.</p>
+               </sp>
+               <closer>
+                  <signed>Doctor Bull.</signed>
+               </closer>
+            </div>
+            <div n="5" type="anthem">
+               <head>Anth. V. <hi>Who ſhall aſcend into the Hill of the Lord?</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>for 2 baſſes</stage> 
+                     <hi>WHo ſhall aſcend into the Hill of the Lord?</hi> who ſhall aſcend into the Hill of the Lord; or who ſhall riſe up in his holy place, in his holy place, in his holy place.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>er.</speaker>
+                  <p>
+                     <stage>Mean.</stage> Even he, even he, he that hath clean hands and a pure heart, and hath not lifted up his heart unto vanity, nor ſworn to deceive his neighbour, nor ſworn to deceive his neighbour.</p>
+               </sp>
+               <pb n="4" facs="tcp:174279:6"/>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>Cou<g ref="char:cmbAbbrStroke">̄</g>ter-te<g ref="char:EOLhyphen"/>nor &amp; baſs.</stage> He ſhall receive the bleſſing of the Lord, the bleſſing of the Lord, the bleſſing of the Lord, of the Lord: and the righteouſneſs from the God of his Salvation.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Lift up your heads, O ye Gates: and be ye lifted up ye everlaſt<g ref="char:EOLhyphen"/>ing Doores, ye everlaſting Doores.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>er.</speaker>
+                  <p>
+                     <stage>tenor.</stage> And the King of glory ſhall come in.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>baſs.</stage> Who is the King of Glory? who is the King of Glory?</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>Mean.</stage> It is the Lord, ſtrong and mighty: mighty in battel, mighty in battel, mighty in battel.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Lift up your heads O ye Gates, and be ye lifted up ye everlaſting Doores, ye everlaſting Doores.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>tenor.</stage> And the King of Glory ſhall come in.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And the King of Glory ſhall come in, ſhall come in.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Who is the King of Glory? who is the King of Glory? who is the King of Glory?</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Even the Lord of Hoaſts he is the King of Glory, he is the King of Glory: even the Lord of Hoaſts he is the King of Glory, he is the King of Glory.</p>
+               </sp>
+               <closer>
+                  <signed>Mr. Hutchinſon.</signed>
+               </closer>
+            </div>
+            <div n="6" type="anthem">
+               <head>Anth. VI. <hi>Hear my cry, O God.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>HEar my cry O God,</hi> hear my cry O God, give ear unto my Prayer, from the ends of the earth will I call unto thee, from the ends of the earth will I call unto thee: when my heart is oppreſt, bring me up<g ref="char:EOLhyphen"/>on the rock that is higher then I, that is higher then I, that is high<g ref="char:EOLhyphen"/>er then I, that is higher then I, then I.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Bring me upon the rock that is higher then I, that is higher then I.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>I will dwell in thy Tabernacle, in thy Tabernacle for evermore, and my truſt ſhall be under the covering of thy wings.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>For thou, O God, haſt heard the deſires, thou haſt given an he<g ref="char:EOLhyphen"/>ritage to thoſe, thou haſt given an heritage, thou haſt given an heri<g ref="char:EOLhyphen"/>tage to thoſe that fear thy Name.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Thou ſhalt give the King a long life.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Thou ſhalt give the King a long life.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>His yeares ſhall be as many ages, as many ages, as many ages.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>His years ſhall be as many ages.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>He ſhall dwell before God for ever, O prepare, O prepare thy loving mercy and faithfulneſs, that they may preſerve him, that they may preſerve him, preſerve him.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>So will I allwayes ſing, ſo will I allwayes ſing praiſes unto thy Name, praiſes unto thy Name: in performing dayly my vowes, in performing dayly my vowes, A-men.</p>
+               </sp>
+            </div>
+            <div n="7" type="anthem">
+               <pb n="5" facs="tcp:174279:6"/>
+               <head>Anth. VII. <hi>Thou art my King O God.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>THou art my King, O God,</hi> Thou art my King, O God, O God ſend help unto <hi>Jacob,</hi> ſend help unto <hi>Jacob,</hi> ſend help unto <hi>Jacob.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Send help unto <hi>Jacob,</hi> to <hi>Jacob:</hi> ſend help unto <hi>Jacob,</hi> unto <hi>Ja<g ref="char:EOLhyphen"/>cob.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Through thee will we overthrow, will we overthrow our Ene<g ref="char:EOLhyphen"/>mies, our Enemies: and in thy name, and in thy name I will tread them down, I will tread them down, I will tread them down that riſe up againſt me, that riſe up againſt me, that riſe up againſt me.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>That riſe up againſt me, againſt me, that riſe up againſt me.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>er.</speaker>
+                  <p>For I will not truſt in my bow, for I will not truſt in my bow: It is not my ſword that ſhall help me, that ſhall help me: But it is thou, but it is thou that ſaveſt us from our Enemies, from our Enemies; And puts them to confuſion that hare us, and puts them to confuſion that hate us, to confuſion that hate us.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>We make our boaſt of God, of God.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>All the day long, all the day long.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>All the day long, all the day long.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>And will praiſe thy Name.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And will praiſe thy Name.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>For evermore.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>For evermore.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>For evermore.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>For evermore, for evermore. A-men, A-men.</p>
+               </sp>
+               <closer>
+                  <signed>Mr. Tompkins.</signed>
+               </closer>
+            </div>
+            <div n="8" type="anthem">
+               <head>Anth. VIII. <hi>O Lord thou haſt ſearched me out.</hi>
+               </head>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>er.</speaker>
+                  <p>
+                     <hi>O Lord thou hast ſearched me out,</hi> and known me, thou knoweſt my down ſitting, thou knoweſt my down ſitting, and mine up riſing. Thou underſtandeſt my thoughts long before, thou underſtandeſt my thoughts long before.</p>
+                  <p>Thou art about my path, and about my bed, and ſpyeſt out all my wayes: for loe, for loe there is not a word in my tongue, but thou O Lord knoweſt it altogether, but thou O Lord knoweſt it al<g ref="char:EOLhyphen"/>together.</p>
+               </sp>
+               <pb n="6" facs="tcp:174279:7"/>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Thou haſt faſhioned me behind and before, and laid thine hand upon me, and laid thine hand upon me, upon me, thine hand upon me.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Whither ſhall I go then from thy preſence. If I climbe up into Heaven, thou art there, thou art there: If I goe down, if I goe down into hell, if I goe down into hell, into hell, thou art there alſo, thou art there, thou art there alſo.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>It I take the wings of the morning, and remain in the uttermoſt parts of the Sea, and remain in the uttermoſt parts of the Sea, of the Sea, of the Sea.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Glory be to the Father, and to the Son, and to the Holy-Ghoſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>As it was in the beginning, and is now, and ever ſhall be, world without end: and ever ſhall be world without end, world without end, world without end, A-men. A-men.</p>
+               </sp>
+               <closer>
+                  <signed>M. Batton.</signed>
+               </closer>
+            </div>
+            <div n="9" type="anthem">
+               <head>Anth. IX. <hi>Chriſt riſing.</hi>
+               </head>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>er.</speaker>
+                  <p>
+                     <stage>two Means.</stage> 
+                     <hi>CHriſt riſing,</hi> Chriſt riſing again from the dead, now dyeth not, now dyeth not, now dyeth not.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Death from henceforth, death from henceforth hath no power upon him.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>For in that he dyed, he dyed but once to put away ſin, to put a<g ref="char:EOLhyphen"/>way ſin.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>To put away ſin, to put away ſin, to put away ſin.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>But in that he liveth, he liveth unto God, he liveth unto God, he liveth unto God.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And ſo likewiſe count your ſelves, count your ſelves dead unto ſin, but living unto God, unto God.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>In Chriſt Jeſus our Lord, our Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>In Chriſt Jeſus our Lord, In Chriſt Ieſus our Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Chriſt is riſen again, the firſt fruits of them that ſleep, of them that ſleep.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Chriſt is riſen again, again, Chriſt is riſen again, the firſt fruits of them that ſleep, of them that ſleep.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>For ſeeing that by man came death.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>For ſeeing that by man came death, that by man came death.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>By man alſo, by man alſo, commeth the reſurrection of the dead, of the dead.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>For as by <hi>Adam; Adam</hi> all men do die, all men do die, do die.</p>
+               </sp>
+               <pb n="7" facs="tcp:174279:7"/>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>So by Chriſt ſo by Chriſt all men ſhall be reſtored, all men ſhall be reſtored to life, ſhall be reſtored to life, to life, to life, to life, life.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>So by Chriſt, ſo by Chriſt, by Chriſt all men ſhall be reſtored to life, all men ſhall be reſtored to life, all men ſhall be reſtored to life, ſhall be reſtored to life, reſtored to life, reſtored to life.</p>
+               </sp>
+               <closer>
+                  <signed>M. Bird.</signed>
+               </closer>
+            </div>
+            <div n="10" type="anthem">
+               <head>Anth. X. <hi>Deliver me, O God.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>DEliver me, O God,</hi> Deliver me, O God, from all my ſoes that be, and me deſend, and thoſe withſtand that riſeth againſt me, that ri<g ref="char:EOLhyphen"/>ſeth againſt me, that riſeth againſt me.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And me defend, and thoſe withſtand that riſeth againſt me, that riſeth againſt me</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Deliver me alſo from thoſe that wicked be, from ſuch as thirſteth after blood: good Lord deliver me, good Lord deliver me, good Lord deliver me, good Lord deliver me.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>From ſuch as thirſteth after blood: good Lord deliver me, good Lord deliver me.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Mine enemies be ſtrong, mine enemies be ſtrong, thou Lord the ſame do<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>e: without offence upon my part, they ſtill do trouble me, they ſtill do trouble me.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Without offence upon my part, they ſtill do trouble me, they ſtill do trouble me.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>My ſelf, my Cauſe, and all I do commit to thee, from traps and ſnares and bloody hands, good Lord deliver me, good Lord deliver me, good Lord deliver me, good Lord deliver me.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho</speaker>
+                  <p>From traps and ſhares, and bloudy hands, good Lord deliver me, good Lord deliver me, A-men.</p>
+               </sp>
+               <closer>
+                  <signed>D. Bull.</signed>
+               </closer>
+            </div>
+            <div n="11" type="anthem">
+               <head>Anth. XI. <hi>O Lord of whom I do depend.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>O Lord of whom I do depend,</hi> behold my careful heart, and when thy will and pleaſure is, releaſe me of my ſmart,</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Releaſe me of my ſmart.</p>
+               </sp>
+               <pb n="8" facs="tcp:174279:8"/>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>for 2 Means</stage> Thou ſeeſt my ſorrows what they are, my grief is known to thee, and there is none that can, that can remove or take the ſame from me, or take the ſame from me.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And there is none that can, that can remove, or take the ſame from me.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>But onely thou, whoſe ayd I crave, whoſe mercy ſtill is preſt to heal all thoſe that come to thee for ſuccour and for reſt: wherefore this is yet once again, my ſuit and my requeſt, to grant me pardon for my ſin, that I in thee may reſt, that I in thee may reſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>So grant me pardon of my ſin, that I in thee may reſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Then ſhall my heart, then ſhall my heart, my tongue and voice, be inſtruments of praiſe, be inſtruments of praiſe: and in thy Church and houſe of Saints, ſing Pſalmes to thee alwayes, ſing Pſalmes to thee alwayes, ſing Pſalmes to thee alwayes.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And in thy Church and houſe of Saints, ſing Pſalmes to thee al<g ref="char:EOLhyphen"/>wayes, to thee alwayes.</p>
+               </sp>
+               <closer>
+                  <signed>D. Giles.</signed>
+               </closer>
+            </div>
+            <div n="12" type="anthem">
+               <head>Anth. XII. <hi>Teach me, O Lord.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>TEach me, O Lord,</hi> the way of thy Statutes: and I will keep it unto the end.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Give me underſtanding, and I ſhall keep thy Law: yea, I ſhall keep it with my whole heart.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Make me to go in the parth of thy Commandments, for therein is my delight.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Incline my heart unto thy teſtimonies; and not to covetouſ<g ref="char:EOLhyphen"/>neſs.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>er.</speaker>
+                  <p>O turn away mine eyes, leaſt they behold vanity: and quicken thou me in thy truth.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>O ſtabliſh thy word in thy ſervant: that I may ſear thee, may fear thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Glory be to the Father, and to the Son, and to the Holy-Ghoſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>As it was in the beginning, and is now: and ever ſhall be, world withoutend, A-men.</p>
+               </sp>
+               <closer>
+                  <signed>M. Bird.</signed>
+               </closer>
+            </div>
+            <div n="13" type="anthem">
+               <pb n="9" facs="tcp:174279:8"/>
+               <head>Anth. XIII. <hi>Soul awake.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>SOul awake,</hi> why ſleepeſt thou ſo long? Come let us Muſick and Chaunt ſome holy Song: My heart and voice ſhall with the ſtrings accord, my heart and voice ſhall with the ſtrings accord, to ſing the praiſe of Chriſt my King and Lord, the praiſe of Chriſt my King and Lord, to ſing the praiſe of Chriſt my King and Lord, to ſing the praiſe of Chriſt my King and Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>My heart and voice ſhall with the ſtrings accord, to ſing the praiſe of Chriſt my King and Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>God that art, yet didſt our nature take, enduring bitter ſmart a peace for us to make: thy Croſs, thy Wounds, thy Death, thy Grave; Our ſinful Souls from endleſs death do ſave.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Thy Croſs, thy Wounds, thy bloody death, thy Grave, our ſinful Souls from endleſs death do ſave.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Glorifyed thou now in Heaven doſt raign, and for thy Saints provide a place there to remain: where King is three in one, and one in three, Law, perfect love, and Term eternity.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Glorifyed thou now in Heaven doſt raign, and for thy Saints pro<g ref="char:EOLhyphen"/>vide a place there to remain: where King is three in one, and one in three, Law, perfect love, and term eternity, eternity, A-men.</p>
+               </sp>
+            </div>
+            <div n="14" type="anthem">
+               <head>Anth. XIV. <hi>Glorious and Powerful God.</hi>
+               </head>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>er.</speaker>
+                  <p>
+                     <hi>GLorious and Powerful God,</hi> We underſtand thy dwelling is on high above the ſtarry skie: thou dwelleſt not in ſtone Temples, made with hands, but in the fleſh hearts of the ſons of men, to dwell is thy delight, near hand though out of ſight.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Thou dwelleſt not in ſtone Temples made with hands, but in the fleſh hearts of the ſons of men: to dwell is thy delight, near hand though out of ſight.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>We give of thine own hands, thine acceptation is very life and blood to all actions good. Our ſupplications from pure and with un<g ref="char:EOLhyphen"/>feigned hearts to thee aſcend, be preſent with thy grace, ſhew us thy loving face, thy loving face.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>From pure and with unfeigned hearts to thee, aſcend, be preſent with thy grace, ſhew us thy loving face, thy loving face.</p>
+               </sp>
+               <pb n="8" facs="tcp:174279:9"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:174279:9"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:174279:10"/>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>O down on us, O down on us full ſhowers of mercy ſend, let thy loves burning beams dry up all our ſins: our ſins, ſtreams ariſe O Lord, and come into thy reſt, both now and evermore, thy name be bleſt founder and foundation of endleſs habitation.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>O down on us, O down on us full ſhowers of mercy ſend, let thy loves burning beams dry up all our ſins: ſtreams ariſe O Lord, and come into thy reſt, both now and evermore, thy Name be bleſt, founder and foundation of endleſs habitation, A-men.</p>
+               </sp>
+            </div>
+            <div n="15" type="anthem">
+               <head>Anth. XV. <hi>Thou God that guideſt.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>THou God that guideſt</hi> both Heaven and Earth, on whom we all depend, preſerve our King in perfect health, and him from harmes defend.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Preſerve our King in perfect health, and him from harms defend, from harms defend.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Conſerve his life in peace to Raign, augment his joys with all, increaſe his friends, maintain his cauſe, and hear us when we call.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Lord hear us when we call.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>So ſhall all we that faithful be, rejoyce and praiſe his Name.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Rejoyce and praiſe his Name.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>O God, O Chriſt, O Holy-Ghoſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>O God, O Chriſt, O Holy-Ghoſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Give ear, and grant the ſame.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Give ear, and grant the ſame.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>O God, O Chriſt, O Holy-Ghoſt, give ear and grant the ſame.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>O God, O Chriſt, O Holy-Ghoſt, give ear and grant the ſame: O Holy-Ghoſt, give ear and grant the ſame, A-men.</p>
+               </sp>
+            </div>
+            <div n="16" type="anthem">
+               <head>Anth. XVI. <hi>How long!</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>How long</hi> wilt thou forget me, O Lord; O Lord, for ever? how long wilt thou hide thy face from me?</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>How long ſhall I ſeck Counſel in my heart, and be ſo vexed in my Soul, in my Soul: how long ſhall mine enemies triumph over me, how long ſhall mine enemies triumph over me.</p>
+               </sp>
+               <pb n="11" facs="tcp:174279:10"/>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Conſider, and hear me, O Lord: O Lord my God, lighten mine eyes, that I ſleep not in death.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>That I ſleep not in death.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>four parts</stage> Leaſt mine enemies ſay, I have prevailed againſt him: For if I be caſt down, they that trouble me will rejoyce at it, will rejoyce at it, at it.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>They that trouble me will rejoyce at it, will rejoyce at it.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>four parts.</stage> But my truſt is in thy mercy: and my heart is joyful in thy ſalva<g ref="char:EOLhyphen"/>tion,</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>I will ſing of the Lord, becauſe he hath dealt ſo lovingly with me: Yet, I will praiſe the Name of the Lord the moſt high.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Glory be to the Father, and to the Son, and to the Holy-Ghoſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Glory be to the Father, and to the Son, and to the Holy-Ghoſt: As if was in the beginning, and is now,</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>And ever ſhall be, world without end.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And ever ſhall be world without end, A-men: And ever ſhall be, world without end, A-men, A-men.</p>
+               </sp>
+               <closer>
+                  <signed>Mr. Morley.</signed>
+               </closer>
+            </div>
+            <div n="17" type="anthem">
+               <head>Anth. XVII. <hi>Preſerve me, O God.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>PReſerve me, O God,</hi> from thoſe that ſeek to deſtroy me: for trou<g ref="char:EOLhyphen"/>ble is hard it hand, for trouble is hard at hand; and there is none to deliver me.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Let not mine Enemies rejoyce, let not mine Enemies rejoyce to ſee me fall; Let not thoſe that hate me, be Lord over me, be Lord over me, be Lord over me.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Withdraw not thou thy mercy from me, in the time of trouble: O deliver me, O deliver me, O deliver me for thy Names ſake.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>O deliver me, O deliver me for thy Names ſake.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Thou art my King, my ſtrong defence, my help, my ſtay, my beart danceth for joy, my heart danceth for joy, my heart danceth for joy: and in my ſong will I praiſe thee, and in my ſong will I praiſe thee and in my long will I praiſe thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>I will not fear what man doth unto me, though ten thouſand en<g ref="char:EOLhyphen"/>compaſs me round about, though ten thouſand encompaſs me round about, round about: thy right hand ſhall ſave me from all that hate me, from all that hate me, A-men.</p>
+               </sp>
+               <closer>
+                  <signed>Mr. Wilkinſon.</signed>
+               </closer>
+            </div>
+            <div n="18" type="anthem">
+               <pb n="12" facs="tcp:174279:11"/>
+               <head>Anth. XVIII. <hi>O Lord, turn not away thy face.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>O Lord, turn not away thy face</hi> from him that lies proſtrate, lament<g ref="char:EOLhyphen"/>ing ſore his ſinful life, before thy mercy Gate; which Gate thou openeſt wide to thoſe that do lament them of their ſins; ſhut not thy Gate againſt me Lord, But let me enter in.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Shut not that Gate againſt me Lord: But let me enter in, but let me enter in.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>O Lord, Thou knoweſt what things be paſt, and eke the things that be: Thou knoweſt alſo what is to come, nothing is hid from thee; before the Heavens and Earth were made, thou knoweſt what things were then: as all things elſe that have been ſince, among the ſons of men.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>As all things elſe that have been ſince among the ſons of men, of men, among the ſons of men.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>So come I to thy mercy Gate, where mercy doth abound: re<g ref="char:EOLhyphen"/>quiring mercy for my ſin, to heal my deadly wound.</p>
+                  <p>O Lord, O Lord, I need not to repeat, what I do beg or crave, Thou knoweſt O Lord, before I ask, the things that I would have, the things that I would have.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Thou knoweſt O Lord, before I ask, the things that I would have, the things that I would have.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Mercy good Lord, mercy good Lord I ask, this is the total ſum, this is the total ſum: for meacy Lord is all my ſuit, Lord let thy mercy come, Lord let thy mercy come.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>For mercy Lord is all my ſuit: Lord let thy mercy come, Lord let thy mercy come.</p>
+               </sp>
+            </div>
+            <div n="19" type="anthem">
+               <head>Anth. XIX. <hi>O Lord conſider my diſtreſs.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>O Lord conſider my diſtreſs,</hi> and now with ſpeed, and now with ſpeed ſome pity take, ſome pity take, ſome pity take: my ſins de<g ref="char:EOLhyphen"/>face, my faults redreſs, good Lord for thy great mercy ſake, good Lord for thy great mercy ſake.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Waſh me, O Lord, and make me clean, from this unjuſt and ſin<g ref="char:EOLhyphen"/>ful Act, and purify yet once again, and purify yet once again, my my heinous crime, my heinous crime, my heinous crime, and bloody fact.</p>
+               </sp>
+               <pb n="13" facs="tcp:174279:11"/>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Remorſe and ſorrow doth conſtrain me to acknowledge mine ex<g ref="char:EOLhyphen"/>ceſs, My ſins alas do ſtill remain before my face without releaſe, without releaſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Yet caſt me not our from thy face, but ſpeedily my torments end, but ſpeedily my torments end: Take not from me thy ſpirit and grace, which may from danger me defend.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>For ſake not thy Hieruſalem, thy Hieruſalem, build up her walls, preſerve her peace: on Sion let thy mercy fall, let thy mercy fall, and let thine anger ceaſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>On Sion let thy mercy fall, let thy mercy fall, from Judah let thine anger ceaſe, from Judah let thine anger ceaſe, from Judah let thine anger ceaſe, A-men.</p>
+               </sp>
+            </div>
+            <div n="20" type="anthem">
+               <head>Anth. XX. <hi>The ſecret ſins</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>THe ſecret ſins</hi> that hidden lies within my penſive heart, procures great heaps of bitter thoughts, and fills my ſoul with ſmart: and yet the more my ſoul doth ſeek ſome ſweet relief to find, the more doth ſin with vain delight alas ſtill keep me blind.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>The more doth ſin with vain delight alas ſtill keep me blind, alas ſtill keep me blind.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Thou ſeeſt O God, what ſtrife there is betwixt my ſoul and ſin; Thy grace doth work, but ſin prevails, and blinds my ſoul therein: wherefore ſweet Chriſt, thy grace increaſe, my faith augment with<g ref="char:EOLhyphen"/>all: and for thy tender mercy ſake, Lord hear me when I call.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And for thy tender mercy ſake, thy mercy ſake: Lord hear me when I call, when I call, A-men.</p>
+               </sp>
+            </div>
+            <div n="21" type="anthem">
+               <head>Anth. XXI. <hi>Behold thou haſt made my dayes!</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>Counter<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>.</stage> 
+                     <hi>BEhold thou haſt made my dayes</hi> as it were a ſpan long, and mine age is even as nothing in reſpect of thee: and verily every man living is altogether vanity</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And verily every man living is altogether vanity.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>For man walketh in a vain ſhadow, and diſquieteth himſelf in vain, he heapeth up riches, he heapeth up riches, and cannot tell, and cannot tell who ſhall gather them; And now Lord, what is my hope? truly my hope is even in thee, truly my hope is even in thee, my hope is even in thee.</p>
+               </sp>
+               <pb n="12" facs="tcp:174279:12"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:174279:12"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:174279:13"/>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And now Lord, what is my hope, truly my hope is even, is even in thee, truly my hope is even in thee, in thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Hear my prayer O Lord, hear my prayer O Lord, and let thine eares conſider my calling, conſider my calling: hold not thy peace at my tears, at my tears, for I am a ſtranger with thee, and a ſo<g ref="char:EOLhyphen"/>journer as all my fathers were: O ſpare me a little me a little, O ſpare me a little, that I may recover my ſtrength, before I go hence, and be no more ſeen.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>O ſpare me little, O ſpare me a little, O ſpare me a little, a little, that I may recover my ſtrength, before I go hence, and be no more ſeen.</p>
+               </sp>
+            </div>
+            <div n="22" type="anthem">
+               <head>Anth. XXII. <hi>Hear my Prayer, O God.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>for a Mean.</stage> 
+                     <hi>HEar my Prayer, O God,</hi> hear my Prayer, O God, and let thine ear conſider my calling, hold not thy peace at my tears.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Hold not thy peace at my teares, hold not thy peace at my teares, hold not thy peace at my teares, hold not thy peace at my teares, at my teares.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>For I am a ſtranger, for I am a ſtranger, for I am a ſtranger with thee, and a ſojourner as all my fathers were.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And a ſojourner as all my fathers were, as all my fathers were, and a ſojourner as all my fathers were, as all my fathers were, as all my fathers were, and a ſojourner as all my fathers were, my fathers were.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>O ſpare me a little while, a little little while: that I may recover ſtrength, that I may recover my ſtrength, before I go hence and be no more ſeen.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>O ſpare me a little while, O ſpare me a little while, that I may re<g ref="char:EOLhyphen"/>cover my ſtrength, before I go hence, before I go hence and be no more ſeen, before I go hence and be no more ſeen.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>My ſtrength hath fail'd, my ſtrength hath fail'd, my ſtrength hath fail'd and is gone, woe, wo-e unto me, woe unto me, woe unto me that I have ſinned.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>My ſtrength hath fail'd, my ſtrength hath fail'd, my ſtrength hath fail'd, my ſtrength hath fail'd and is gone; woe unto me, woe unto me that I have ſinned, woe unto me, woe unto me, woe unto me that I have ſinned, woe unto me that I have ſinned, I have ſinned.</p>
+               </sp>
+            </div>
+            <div n="23" type="anthem">
+               <pb n="15" facs="tcp:174279:13"/>
+               <head>Anth. XXIII. <hi>O Lord, let me know mine end.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>for a Tenor and a Baſs.</stage> 
+                     <hi>O Lord, O Lord, let me know mine end,</hi> and the number of my dayes, and the number of my dayes, that I may be certifyed how long I have to live.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>That I may be certified how long I have to live, how long I have to live.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Behold, behold, thou haſt made my dayes as it were a ſpan long, and mine age is nothing, and mine age is nothing in reſpect of thee: and verily every man living, and verily every man living is altogether vanitie, is altogether vanity.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho</speaker>
+                  <p>And verily every man living is altogether vanitie.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>tenor &amp; baſs</stage> For man walketh in a vain ſhadow, for man walketh in a vain ſha<g ref="char:EOLhyphen"/>dow, and diſquieteth himſelf, and diſquieteth himſelf in vain: He heapeth up riches, and cannot tell who ſha<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> gather them; And now Lord, And now Lord what is my hope? truly my hope is even in thee, in thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And now Lord, and now Lord, and now Lord, what is my hope, my hope, what is my hope? truly my hope is even in thee, truly my hope is even in thee, A-men, A men.</p>
+               </sp>
+            </div>
+            <div n="24" type="anthem">
+               <head>Anth. XXIV. <hi>Deliver me from mine enemies.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>two Means.</stage> 
+                     <hi>DEliver me from mine enemies,</hi> O God, defend me from them, de<g ref="char:EOLhyphen"/>fend me from them that riſe up againſt me. <stage>(Tenor.)</stage> O deliver me, O d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>liver me from the wicked doers, and ſave me, and ſave me, and ſave me from the bloud thirſty and deceiptful man.</p>
+                  <p>
+                     <stage>a Baſs.</stage> For loe, Loe, they lie waiting for my ſoul, loe, they lie waiting for my ſoul. <stage>(Mean)</stage> The mighty men are gathered againſt me. <stage>(Mean and Baſs.)</stage> The mighty men are gathered againſt me without a cauſe, o God, o God.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Stand up o Lord, o Lord God of Hoſts, ſtand up o Lord, o Lord God of Hoſts: and be not merciful unto them that offend of mali<g ref="char:EOLhyphen"/>cious wickedneſs.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>They go to and fro, to and fro, to and fro, to and fro in the e<g ref="char:EOLhyphen"/>vening, They grin like a dog, they grin like a dog, and r-un about, and run about the City. <stage>(Tenor,)</stage> Behold they ſpeak with their mouth
+<pb n="16" facs="tcp:174279:14"/> but ſwords are in their lips, for who doth hear? But thou o Lord, but thou o Lord, ſhalt have them in deriſion.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>My ſtrength will I aſcribe unto thee, for thou art the God of my refuge, God hath ſhewed me his goodneſs plenteouſly, and God ſhall let me ſee my deſire upon mine enemies, mine enemies.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>parts.</stage> For the ſin of their mouth, for the words of their lips, they ſhall be taken in their pride; And why? Their preaching is of curſing and lies; Conſume them in thy wrath, conſume them, conſume them that they may periſh, and know it is God that ruleth in <hi>Iacob,</hi> and unto the ends of the earth.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>As for me, as for me, I will ſing of thy power, I will ſing of thy power, or thou art the God of my refuge, and my merciful God, and my merciful God, A-men.</p>
+               </sp>
+            </div>
+            <div n="25" type="anthem">
+               <head>Anth. XXV. <hi>Bow down thine ear, O Lord.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>Bow down thine ear, O Lord,</hi> Bow down thine ear O Lord, and hear me, and hear me, for I am poor and in miſery, for I am poor and in miſery. Preſerve thou my ſoul, for I am holy, for I am holy, O my God ſave thy ſervant, thy ſervant. <stage>(3 parts)</stage> O my God ſave thy ſervant that puts his truſt in thee, that puts his truſt in thee, that puts his truſt in thee, in thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>O my God. Save thy ſervant that puts his truſt in thee, in thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Be merciful, be merciful unto me O Lord, for I will call daily upon thee, for I will call daily upon thee: Comfort thy ſervant, comfort thy ſervant, comfort thy ſervant, comfort thy ſervant, for unto thee O Lord do I lift up my ſoul; Teach me thy way, teach me thy way, thy way, O Lord, and I will walk in thy truth, and I will walk in thy truth, O knit my heart unto thee, O knit my heart unto thee, my heart unto thee, that I may fear thy name, may fear thy name, that I may fear thy name; Then will I praiſe thy name for evermore, then will I praiſe thy name for evermore. <stage>(3 parts.)</stage> For great is thy mercy towards me, towards me, for great is thy mercy towards me; Then will I praiſe thy name for evermore, then will I praiſe thy name for evermore. <stage>(3 parts.)</stage> For great is thy mer<g ref="char:EOLhyphen"/>cy towards me, towards me, for great is thy mercy towards me.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Then will I praiſe thy name forevermore, for great is thy mercy, for great is thy mercy, for great is thy mercy towards me, So be it So be it.</p>
+               </sp>
+               <closer>
+                  <signed>R. Iewet.</signed>
+               </closer>
+            </div>
+            <div n="26" type="anthem">
+               <pb n="17" facs="tcp:174279:14"/>
+               <head>Anth. XXVI. <hi>Bleſsed are all they that fear the Lord.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>BLeſſed are all they that fear the Lord,</hi> and walk in his ways, and walk in his ways, for thou ſhalt eat the labour of thine hands, O well is thee, and happy ſhalt thou be.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>For thou ſhalt eat the labour of thine hands, O well is thee, and happy ſhalt thou be.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Thy wife ſhall be as the fruitful Vine upon the walls, the walls of thine houſe, Thy children like the Olive branthes, round about thy rable; round about thy table, round about thy table, round about thy table; Lo, thus ſhall the man be bleſſed, lo, thus ſhall the man be bleſſed that feareth the Lord, that feareth the Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Lo, thus ſhall the man be bleſſed, lo thus ſhall the man be bleſſed, that feareth the Lord, that feareth the Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>er.</speaker>
+                  <p>
+                     <stage>3 parts.</stage> The Lord from out of Sion ſhall ſo bleſs thee, that thou ſhalt ſee Jeruſalem in proſperitie all thy life long, yea, that thou ſhalt ſee thy childrens children, and peace upon Iſrael, and peace upon Iſrael.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Glory be to the Father, and to the Son, and to the Holy-Ghoſt, as it was in the beginning, is now, and ever ſhall be, world without end, and ever ſhall be world without end, and ever ſhall be would without end, A-men.</p>
+               </sp>
+               <closer>
+                  <signed>M. Orlando Gibbons.</signed>
+               </closer>
+            </div>
+            <div n="27" type="anthem">
+               <head>Anth. XXVII. <hi>Everlaſting God.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>Everlaſting God,</hi> which haſt ordained, haſt ordained and conſtituted the ſervices of all Angels and Men, of all Angels and Men, In a wonderful order, in a wonderful order.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>In a wonderful order, wonderful order.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Mercifully grant that they which alway do thee ſervice in heaven, may by this appointment ſuccour and defend us in earth, defend us in earth, defend us in earth.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>May by this appointment ſuccour and defend us in earth.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Through Jeſus Chriſt our Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Through Jeſus Chriſt our Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Who liveth and raigneth with thee, who liveth and raigneth with thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Who liveth and raigneth with thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>One God world without end, one God world without end.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>One God world without end.</p>
+               </sp>
+               <closer>
+                  <signed>M. Rogers.</signed>
+               </closer>
+            </div>
+            <div n="28" type="anthem">
+               <pb n="18" facs="tcp:174279:15"/>
+               <head>Anth. XXVIII. <hi>Hear my Prayer, O Lord.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>HEar my Prayer, O Lord.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Hear my prayer, O Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Hear my prayer O Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Hear my prayer O Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>And conſider my deſire, and conſider my deſire.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And conſider my deſire, and conſider my deſire.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>And conſider my deſire.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And conſider my deſire.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Hearken unto me, hearken unto me, for thy truth and righteouſ<g ref="char:EOLhyphen"/>neſs ſake.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Hearken unto me, hearken unto me for thy truth and righteouſ<g ref="char:EOLhyphen"/>neſs ſake.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>And enter not into judgement with thy ſervant; for in thy ſight, ſhall no man living be juſtifyed.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And enter not into judgement with thy ſervant, for in thy ſight, ſhall no man living be juſtified, be juſtified.</p>
+               </sp>
+               <closer>
+                  <signed>M. Bird.</signed>
+               </closer>
+            </div>
+            <div n="29" type="anthem">
+               <head>Anth. XXIX. <hi>Hear me when I call, O God.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>HEar me when I call, O God</hi> of my righteouſneſs, for thou haſt ſet my heart at liberty when I was in trouble, when I was in trouble. <stage>(2 Baſes.)</stage> O ye ſons of men how long, how long will ye blaſpheme mine honour, will ye blaſpheme mine honour, and have ſuch plea<g ref="char:EOLhyphen"/>ſure in vanity, and follow after leaſing.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>O ye ſons of men, how long will ye blaſpheme mine honour, and have ſuch pleaſure in vanity, and follow after leaſing, after leaſing.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Know this alſo, that the Lord hath choſen to himſelf the man that is godly, the man that is godly. When I call upon the Lord he will hear me.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>When I call upon the Lord he will hear me, when I call upon the Lord he will hear me.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Stand in awe and ſin not, commune with your own hearts, and in your chamber be ſtill, and in your chamber be ſtill. <stage>(2 Baſes)</stage> Offer to God the Sacrifice of righteouſneſs, and put your truſt in the Lord, and put your truſt in the Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Offer to God the Sacrifice of righteouſneſs, and put your truſt in the Lord, in the Lord, your truſt in the Lord, and put your truſt in the Lord, in the Lord.</p>
+               </sp>
+               <closer>
+                  <signed>M. Rogers.</signed>
+               </closer>
+            </div>
+            <div n="30" type="anthem">
+               <pb n="19" facs="tcp:174279:15"/>
+               <head>Anth. XXX. <hi>Hear me, O Lord.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>HEar me, O Lord,</hi> hear me O Lord, and that ſoon, and that ſoon, for my ſpirit waxeth faint, for my ſpirit waxeth faint. Hide not thy face from me, leaſt I be like unto them that go down into the pit, that go down into the pit.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Hide not thy face from me, thy face from me, leaſt I be like unto them, leaſt I be like unto them, unto them that go down into the pit, into the pit, into the pit.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>two parts</stage> O let me hear thy loving kindneſs, thy loving kindneſs betimes in the morning, in the morning; for in thee is my truſt, for in thee is my truſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Shew thou me the way that I ſhould walk in, for I lift up my ſoul, for I lift up my ſoul unto thee, for I lift up my ſoul unto thee, my ſoul unto thee.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>two parts.</stage> Deliver me, O Lord from mine enemies, from mine ene-mies, mine enemies: for I flie unto thee to hide me, to hide me.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>For I fly unto thee to hide me, for I fly unto thee to hide me, for I fly unto thee to hide me, to hide me.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Teach me to do the thing that pleaſeth thee, that pleaſeth thee: for thou art my God, for thou art my God, for thou art my God.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Let thy loving ſpirit lead me forth into the land, into the land, the land, into the land of righteouſneſs.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>two parts.</stage> Quicken me O Lord for thy names ſake, quicken me O Lord for thy names ſake: and for thy righteouſneſs ſake bring my ſoul out of trouble, bring my ſoul out of trouble, bring my ſoul out of trouble, out of trouble.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And for thy righteouſneſs ſake, bring my ſoul out of trouble, bring my ſoul out of trouble, bring my ſoul out of trouble, bring my ſoul out of trouble.</p>
+               </sp>
+            </div>
+            <div n="31" type="anthem">
+               <head>Anth. XXXI. <hi>O Lord, in thee is all my truſt.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>O Lord, O Lord in thee is all my truſt,</hi> give ear unto my woful cry, refuſe me not that am unjuſt, but bowing down thine heavenly eye.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>But bowing down thine heavenly eye.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Behold how I go, ſtill lament my ſins wherin I thee offend. O Lord for them ſhall I be ſhent, O Lord for them ſhall I be ſhent, ſeeth thee to pleaſe, ſeeth thee to pleaſe I do in-tend.</p>
+               </sp>
+               <pb n="20" facs="tcp:174279:16"/>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>O Lord for them ſhall I be ſhent, ſeeth thee to pleaſe, ſeeth thee to pleaſe I do in end, I do intend.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>two parts.</stage> No no not ſo, thy will is bent, to deal with ſinners in thine ire, to deal with ſinners in thine ire, thou grant'ſt with ſpeed their juſt de-ſire, thou grant'ſt with ſpeed their juſt de-ſire.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Thou grant'ſt with ſpeed their juſt deſire.</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>er.</speaker>
+                  <p>To thee therefore ſtill ſhall I cry, to waſh away my ſinful crime: thy bloud O Lord is not yet dry, but that it may help me in time, in time.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Thy bloud O Lord is not yet dry, but that it may, but that it may help me in time, help me in time.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>three parts.</stage> Haſt thee O Lord, haſt thee I ſay, to powre on-me, to powre on-me the guifts of grace; that when this life muſt fleet a-way, in Heaven with thee I may have place.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>In Heaven with thee I may have place.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Where thou doſt raign eternally with God, which once did thee down ſend: Where Angels ſing continually, to thee be praiſe world without end, world without end, world without end.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Where Angels ſing continually, to thee be praiſe world without end, A-men.</p>
+               </sp>
+               <closer>
+                  <signed>M. Hooper.</signed>
+               </closer>
+            </div>
+            <div n="32" type="anthem">
+               <head>Anth. XXXII. <hi>I will magnify thee, O Lord.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>I Will magnify thee, O Lord,</hi> I will magnify thee, O Lord, for thou halt ſet me up, for thou haſt ſet me up, and not made my foes tri<g ref="char:EOLhyphen"/>umph over me. O Lord my God, I cryed unto thee, I cryed unto thee, I cryed unto thee, and thou haſt healed me, and thou haſt heal<g ref="char:EOLhyphen"/>ed me. <stage>(2 Baſſes)</stage> Thou Lord haſt brought my ſoul out of hell, out of hell; thou haſt kept my life from them, thou haſt kept my life from them, from them that go down into the pit, from them that go down into the pit, into the pit, into the pit, <stage>(4 parts.)</stage> Sing praiſes, ſing praiſes unto the Lord O ye Saints of his.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Sing praiſes unto the Lord O ye Saints of his.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>And give thanks unto him, unto him.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>For a remembrance of his holineſs, his holineſs.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>for 2 Means</stage> For his wrath endureth but the twinckling, twinckling of an eye, and in his favour is life, heavineſs may endure for a night, for a night, but joy cometh in the morning, but joy cometh in the morning; what profit is there in my bloud, what profit is here in my bloud, when I go down into the pit, when I go down into the pit, into the pit.</p>
+               </sp>
+               <pb n="21" facs="tcp:174279:16"/>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Shall the duſt give thanks unto thee, ſhall the duſt give thanks unto thee; or ſhall it declare thy truth, or ſhall it declare thy truth?</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Hear O Lord, hear O Lord, and have mercy upon me, and have mercy upon me: Lord be thou my helper, Thou haſt turned my heavineſs into joy, thou haſt put off my Sackcloth, and girded me with gladneſs,</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Therefore ſhall every good man ſing of thy praiſe, therefore ſhall every good man ſing of thy praiſe without ceaſing, O my God, I will give thanks unto thee for ever, for ever, A-men.</p>
+               </sp>
+               <closer>
+                  <signed>M. Hutchinſon.</signed>
+               </closer>
+            </div>
+            <div n="33" type="anthem">
+               <head>Anth. XXXIII. <hi>I will magnify thee, O Lord.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>for 2 baſſes</stage> 
+                     <hi>I Will magnify thee, O Lord,</hi> I will magnify thee O Lord, I will magnity thee o Lord, for thou haſt ſet me up, for thou haſt ſet me up, for thou haſt ſet me up, and not made my foes to triumph over me, and not made my foes to triumph over me, and not made my foes to triumph over me.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And not made my foes to triumph over me: and not made my foes to triumph over me.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>O Lord my God, o Lord my God, o Lord my God I cryed unto thee, to thee, I cryed unto thee, and thou haſt healed me, and thou haſt healed me, and thou haſt healed me, and thou haſt healed me.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And thou haſt healed me, and thou haſt healed me, haſt healed me.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>for 2 baſſes.</stage> Which ſitteth in the Heavens over all, which ſitteth in the Hea<g ref="char:EOLhyphen"/>vens over all, over all, from the begining, from the begining, from the begining; Lo he doth ſend out his noyſe, yea, and that a mighty voice, a mighty voice, a mighty voice; Sing unto God, ſing unto God, to God, all ye Kingdomes of the earth, all ye King<g ref="char:EOLhyphen"/>domes of the earth, the earth; O ſing praiſes unto the Lord, o ſing praiſes unto the Lord, o ſing praiſes unto the Lord, unto the Lord; Bleſſed be God, bleſſed be God, bleſſed be God, bleſſed be God.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Sing unto God, ſing unto God all ye Kingdomes of the earth, of the earth, all ye Kingdomes of the earth; O ſing praiſes unto the Lord, o ſing praiſes unto the Lord, o ſing praiſes unto the Lord, o ſing praiſes unto the Lord, unto the Lord, unto the Lord; Bleſſed be God, bleſſed be God, be God, bleſſed be God, A-men, A men.</p>
+               </sp>
+               <closer>
+                  <signed>M: Martin Peerſon.</signed>
+               </closer>
+            </div>
+            <div n="34" type="anthem">
+               <pb n="22" facs="tcp:174279:17"/>
+               <head>Anth. XXXIV. <hi>If ye be riſen again with Chriſt.</hi>
+               </head>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>er.</speaker>
+                  <p>
+                     <stage>for 2 means</stage> 
+                     <hi>If ye be riſen again with Chriſt,</hi> If ye be riſen again with Chriſt, ſeek thoſe things which are above, where Chriſt ſitteth, ſitteth on the right hand of God, ſitteth on the right hand of God, where Chriſt ſitteth, where Chriſt ſitteth on the right hand of God, of God.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>If ye be riſen a-gain with Chriſt, ſeek thoſe things which are above, ſeek thoſe things which are above, where Chriſt ſitteth at the right hand of God.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>three parts.</stage> Set your affections on heavenly heavenly things, and not on earthly things, for ye are dead, for ye are dead, for ye are dead, and your life is hid with Chriſt in God, and your life is hid with Chriſt, with Chriſt in God.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>For ye are dead, and your life is hid with Chriſt in God, with Chriſt in God, and your life is hid, and your life, and your life is hid with Chriſt in God.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>for 2 means</stage> Whenſoever Chriſt which is our life, which is our life, which is our life, ſhall ſhew himſelf, then ſhall ye alſo appear with him, then ſhall ye alſo appear with him in glory.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Then ſhall ye alſo appear with him in glory, then ſhall ye alſo appear with him in glory, ye alſo appear with him in glory, So be it, So be it, So be it, So be it; So be it.</p>
+               </sp>
+               <closer>
+                  <signed>M. Gibbons.</signed>
+               </closer>
+            </div>
+            <div n="34" type="anthem">
+               <head>Anth. XXXV. <hi>I will ſing the mercies of the Lord.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>I will ſing the mercies of the Lord for ever,</hi> I will ſing the mercies of the Lord for ever, with my mouth will I make known, will I make known thy faithfulneſs unto all generations, unto all generations.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>For I have ſaid, mercy ſhall be ſet up, ſet up, for ever, for ever, thy truth ſhalt thou eſtabliſh in the heavens, eſtabliſh in the heavens</p>
+               </sp>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>er.</speaker>
+                  <p>Ariſe O Lord, ariſe O Lord into thy reſt, ariſe O Lord, ariſe O Lord into thy reſt, thou and the ark of thy ſtrength, of thy ſtrength: Let thy Prieſts be cloathed with righteouſneſs, and let thy Saints, and let thy Saints ſing, ſing with joyfulneſs, ſing with joyfulneſs.</p>
+               </sp>
+               <pb n="23" facs="tcp:174279:17"/>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Let thy Prieſts be cloathed, be cloathed with righteouſneſs, with righteouſneſs, and let thy Saints ſing, and let thy Saints ſing, ſing with joyfulneſs.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>The dead praiſe not thee O Lord, the dead praiſe not thee O Lord: Neither all they that go down, that go down into ſilence, but we will praiſe the Lord, but we will praiſe the Lord, from this time forth, from this time forth for evermore, from this time forth for evermore, praiſe the Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>
+                     <stage>twice over.</stage> But we will praiſe the Lord, we will praiſe the Lord, from this time forth for evermore, for evermore, praiſe the Lord.</p>
+               </sp>
+               <closer>
+                  <signed>M. Mudde.</signed>
+               </closer>
+            </div>
+            <div n="36" type="anthem">
+               <head>Anth. XXXVI. <hi>Let God ariſe.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>LEt God ariſe,</hi> Let God ariſe, and let his enemies be ſcattered, be ſcattered, be ſcattered; let them alſo that hate him, that hate him, fly — before him, fly — before him, fly — before him; But let the righteous be glad, and rejoyce, and rejoyce, and rejoyce, and rejoyce and rejoyce before God, let him alſo be mery and joyful, and joyful, and joyful.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Let them alſo be mery and joyful, be mery and joyful, be mery and joyful, and joyful.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>O ſing unto God, and ſing praiſes unto his Name, magnify him that rideth upon the Heavens, upon the Heavens, praiſe him in his Name, in his Name, praiſe him in his Name, in his Name, yea, and rejoyce, and rejoyce before him.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Praiſe him in his Name, praiſe him in his Name, praiſe him in his Name, yea, and rejoyce, and rejoyce before him.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Sing unto the Lord a new ſong, and ſing praiſes from the end of the earth, ye that go down, that go down, that go down, ye that go down, that go down, that go down, that go down, that go down to the Sea, let them give glory to the Lord, let them give glory to the Lord, and declare his power, and declare his power, his power.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Ye that go down, that go down, Ye that go down, that go down, that go down, that go down unto the Sea, let them give glory to the Lord, let them give glory to the Lord, let them give glory to the Lord, let them give glory to the Lord, give glory to the Lord, and declare his praiſe, and declare his praiſe, declare his praiſe.</p>
+               </sp>
+               <closer>
+                  <signed>M. Ward.</signed>
+               </closer>
+            </div>
+            <div n="37" type="anthem">
+               <pb n="24" facs="tcp:174279:18"/>
+               <head>Anth. XXXVII. <hi>Out of the deep.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>for 2 baſſes.</stage> 
+                     <hi>O<g ref="char:V">Ʋ</g>t of the deep,</hi> out of the deep have I called unto thee O Lord, have I called unto thee O Lord, Lord hear my voice, Lord hear my voice, Lord hear my voice.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>O let thine eares conſider well the voice of my complaint, the voice of my complaint, the voice of my complaint.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>If thou Lord ſhould'ſt be extream, to mark, to mark what is done amiſs, what is done amiſs, O Lord who may abide it, O Lord who may abide it, who may abide it.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho</speaker>
+                  <p>But there is mercy with thee, therefore ſhalt thou be feared, there<g ref="char:EOLhyphen"/>fore ſhalt thou be feared.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>I look for the Lord, I look for the Lord, my ſoul doth wait for him, my ſoul doth wait for him; in his word is my truſt, in his word is my truſt, is my truſt; my ſoul fly-eth unto the Lord, my ſoul fly-eth unto the Lord, flyeth unto the Lord before the morning watch, I ſay before the morning watch; O Iſrael, Iſrael, O Iſrael, Iſrael, truſt in the Lord, the Lord, for with the Lord, for with the Lord there is mercy, and with him is plenteous redemption, and with him is plenteous redemption, redemption,</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And he ſhall redeem Iſrael from all his ſins.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>From all his ſins.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>From all his ſins, from all his ſins, his ſins, A-men.</p>
+               </sp>
+               <closer>
+                  <signed>M. Hutchinſon.</signed>
+               </closer>
+            </div>
+            <div n="38" type="anthem">
+               <head>Anth. XXXVIII. <hi>O God the King of Glory.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>O God the King of Glory,</hi> which haſt exalted thy ſon Jeſus Chriſt, with great triumph, with great triumph into thy kingdom in heaven</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Which haſt exalted thy ſon Jeſus Chriſt into thy Kingdome in Heaven.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>two parts</stage> We beſeech thee leave us not comfortleſs, not comfortleſs, but ſend down thine holy ſpirit to comfort us, and exalt us unto the ſame place, unto the ſame place, whither our Saviour Chriſt is gone before.</p>
+               </sp>
+               <pb n="25" facs="tcp:174279:18"/>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>We beſeech thee leave us not comfortleſs, but ſend down thine holy ſpirit to — comfort us, and exait us unto the ſam<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> place, whi<g ref="char:EOLhyphen"/>ther our Saviour Chriſt is gone before, is gone before.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Who liveth and raigneth with thee, who liveth and raigneth with thee: ever one God, ever one God, ever one God, ever one God, ever one God, world without end.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Ever one God, one God, ever one God, ever one God, one God, world without end, A-men.</p>
+               </sp>
+               <closer>
+                  <signed>R. Iewet.</signed>
+               </closer>
+            </div>
+            <div n="39" type="anthem">
+               <head>Anth. XXXIX. <hi>The King ſhall rejoyce.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>THe King ſhall rejoyce</hi> in thy ſtrength, O Lord, in thy ſtrength, O Lord, exceeding glad ſhall he be of thy ſalvation, exceeding glad ſhall be be of thy ſalvation, Thou hast given him his hearts deſire, and haſt not denyed him the requeſt of his lips, for thou ſhalt prevent him with the bleſſings of goodneſs, and ſhalt ſet a Crown, a Crown of pure gold up-on his head. <stage>(2 Means)</stage> He asked life of thee, and thou gav'ſt him a long life for ever, for ever, and ever.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>He asked life of thee, and thou gav'ſt him a long life, even for ever, even for ever and ever.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>or 2 Tenors</stage> His honour is great in thy ſalvation, glory and great worſhip ſhalt thou lay upon him, glory and great worſhip, and great worſhip ſhalt thou lay upon him, and why, and why, and why? <stage>(2 Baſſes)</stage> Be<g ref="char:EOLhyphen"/>cauſe the King putteth his truſt in the Lord, in the Lord, And in the mercy of the moſt higheſt, he ſhall not miſcarry, miſcarry, he ſhall not miſcarry, miſcarry, he ſhall not miſcarry, miſcarry, he ſhall not miſcarry.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And in the mercy of the moſt higheſt he ſhall not miſcarry, he ſhall not miſcarry, miſcarry, he ſhall not miſcarry.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>All thine enemies ſhall feel thine hand, thy right hand ſhall finde out them that hate thee; For they intended miſchief againſt thee, and imagined ſuch a device, a device as they were not able to per<g ref="char:EOLhyphen"/>form: for they intented miſchief againſt thee, and imagined ſuch a device, a device as they were not able to perform.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Be thou exalted Lord in thine own ſtrength, ſo will we ſing and praiſe thy power, and praiſe thy power, ſo will we ſing and praiſe thy power, and praiſe thy power. <stage>(2 Baſses)</stage> So be-it, So be-it, So be-it, So be-it, So be it.</p>
+               </sp>
+               <closer>
+                  <signed>Randall Iewet.</signed>
+               </closer>
+            </div>
+            <div n="40" type="anthem">
+               <pb n="26" facs="tcp:174279:19"/>
+               <head>Anth. XL. <hi>We praiſe thee, O Father.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>three parts.</stage> 
+                     <hi>WE praiſe thee, O Father,</hi> for the glorious Reſurrection of thy Son, the glorious reſurrection of thy Son Jeſus Chriſt, Jeſus Chriſt, Je<g ref="char:EOLhyphen"/>ſus Chriſt, our Lord, our Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>We praiſe thee, O Father, for the glorious Reſurrection of thy Son, the glorious Reſurrection of thy Son Jeſus Chriſt, Jeſus Chriſt, Jeſus Chriſt, our Lord, our Lord.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>For he is the very paſchal Lamb, who was offered up for us, and hath taken away the ſins of the world, and hath taken away the ſins of the world, and hath taken away the ſins of the world.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>For he is the very paſchal Lamb, which was offered up for us, and hath taken away the ſins of the world, and hath taken away the ſins of the world, and hath taken away the ſins of the world, and hath taken away the ſins of the world.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Who by his death hath deſtroyed death, and by his riſing to life, to life again, hath reſtored us, hath reſtored us to everlaſting life, to us everlaſting life.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Who by his death hath deſtroyed death, and by his riſing to life, to life again, hath reſtored us, hath reſtored us to everlaſting life, to us everlaſting life.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Therefore with Angels, and Arch-Angels, and with all the com<g ref="char:EOLhyphen"/>pany of Heaven, we laud and magnify thy glorious Name, thy glorious Name, we laud and magnify thy glorious Name.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Therefore with Angels, and Arch-Angels, and with all the com<g ref="char:EOLhyphen"/>pany of Heaven, we laud and magnify thy glorious Name, thy glorious Name, we laud and magnify thy glorious Name, Amen.</p>
+               </sp>
+            </div>
+            <div n="41" type="anthem">
+               <head>Anth. XLI. <hi>Praiſe the Lord.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>PRaiſe the Lord,</hi> the God of might and power, for all the wonders he hath done. O magnify the Son our Saviour. Give laud unto that holy one, give laud unto that holy one, proceeding from the Father and Son.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>With inſtruments of melody, with inſtruments of melody; ſing praiſes to the Trinity, the Trinity, ſing praiſes to the Trinity, to the Trinity.</p>
+               </sp>
+               <pb n="27" facs="tcp:174279:19"/>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>The God that Heaven and earth hath made, the God that Heaven and earth hath made, and all things in the world of nought; The Son that it redeem'd and ſav'd, and us from hell and darkneſs bought, He that our hearts hath newly wrought.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>With inſtruments of melody, with inſtruments of melody, ſing praiſes to the Trinity, to the Trinity, ſing praiſes to the Trinity, to the Trinity.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>That Godhead which theſe three conjoynes, that Godhead which theſe three conjoynes. Our King, Queen, Prince, preſerve and bleſs. Bleſs them all that ſpring from their loynes, Bleſs-hem all that ſpring from their loyns, them all that ſpring from their loyns Keep them in peace from trouble and diſtreſs. Bear up their friends, their foes depreſs, their foes depreſs.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>So ſhall we all ſing joyfully, ſo ſhall we all ſing joyfully, Praiſe to his holy Majeſty, praiſe to his holy Majeſty, praiſe to his holy Majeſty, to his Majeſty, A-men, A-men.</p>
+               </sp>
+            </div>
+            <div n="42" type="anthem">
+               <head>Anth. XLII. <hi>When <hi>Iſrael</hi> came out of <hi>Egypt.</hi>
+                  </hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>WHen <hi>Iſrael</hi> came out of <hi>Egypt,</hi>
+                     </hi> of <hi>Egypt,</hi> and the houſe of <hi>Iacob</hi> from among the ſtrange children.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And the houſe of <hi>Iacob</hi> from among the ſtrange children.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>Iudah</hi> was his ſanctuary, his ſanctuary, and <hi>Iſrael,</hi> and <hi>Iſrael</hi> his dominion.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>The Sea ſaw that, and fled, the Sea ſaw that and fled, <hi>Iordan</hi> was driven back, <hi>Iordan</hi> was driven back, <hi>Iordan</hi> was driven back, was driven back.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>The mountains skipped like Rams, the mountains skipped like Rams, the mountains skipped like Rams, and the little hills, and the little hills, and the little hills like the young ſheep.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And the little hills like the young ſheep, like the young ſheep, and the little hills like the young ſheep.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>What ayleth thee, O thou Sea, that thou fleddeſt? that thou fleddeſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And thou <hi>Iordan,</hi> that thou waſt driven back, that thou waſt dri<g ref="char:EOLhyphen"/>ven back, waſt driven back.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Ye mountains, that ye skipped like Rams, that ye skipped like Rams, and ye little hills, and ye little hills like the young ſheep, like the young ſheep, like the young ſheep.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And ye little hills, and ye little hills, and ye little hills like the young ſheep, and ye little hills like the young ſheep.</p>
+               </sp>
+               <pb n="28" facs="tcp:174279:20"/>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Tremble thou earth, Tremble thou earth.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Thou earth.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>At the preſence of the Lord, at the preſence of the God of <hi>Iacob.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>At the preſence of the God of <hi>Iacob,</hi> at the preſence of the God of <hi>Iacob,</hi> A-men, A-men.</p>
+               </sp>
+            </div>
+            <div n="43" type="anthem">
+               <head>Anth. XLIII. <hi>Ariſe, O Lord.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>ARiſe, O Lord,</hi> into thy reſt, into thy reſt, Thou, and the Arke of thy ſtrength. Let all thy Prieſts be cloathed with righteouſneſs, and let thy Saints ſing loud with joyfulneſs. Deck all thy Prieſts with health, and let thy Saints rejoyce.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Let all thy Prieſts be cloathed with righteouſneſs, and let thy Saints ſing loud with joyfulneſs; Deck all thy Prieſts with health, and let thy Saints rejoyce.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Lord, for thy Servant <hi>Davids</hi> ſake, thy <hi>Davids</hi> ſake, turn not away thy face from thine anoynted. The Lord hath made a faithful oath unto <hi>David,</hi> and will not turn from it, and will not turn from it; The fruit of thy body ſhall ſit upon thy Throne, upon thy Throne</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>The Lord hath made a faithful oath unto <hi>David,</hi> and will not turn from it, and will not turn from it; The fruit of thy body ſhall ſit upon thy Throne, upon thy Throne.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>For I the Lord, for I the Lord have choſen <hi>Zion,</hi> and I will, and I will make the horn of <hi>David</hi> to flouriſh, and I will bleſs her victu<g ref="char:EOLhyphen"/>alls with increaſe, and daily ſatisfy her poor with bread; All his foes with ſhame ſhall fall, but on his head ſhall his Crown flouriſh, all his foes with ſhame ſhall fall, but on his head ſhall his Crown flouriſh.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>For I the Lord, for I the Lord have choſen <hi>Zion,</hi> and I will, and I will make the horne of <hi>David</hi> to flouriſh, and I will bleſs her victu<g ref="char:EOLhyphen"/>alls with increaſe, and daily ſatisfy her poor with bread; All his foes with ſhame ſhall fall, but on his head ſhall his Crown flouriſh, all his foes with ſhame ſhall fall, but on his head ſhall his Grown flouriſh, A-men.</p>
+               </sp>
+            </div>
+            <div n="44" type="anthem">
+               <pb n="29" facs="tcp:174279:20"/>
+               <head>Anth. XLIIII. <hi>O Lord my God in all Diſtreſs.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>O Lord my God in all Diſtreſs,</hi> My truſt is ſtill in thee: Preſerve me from thoſe deadly foes, that riſe, that riſe and trouble me. As thou art juſt defend me Lord, and rid me from all fear: ſend me thy help, and do my ſute, and humble prayer hear.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Send me thy help, and do my ſute and humble prayer hear, and humble prayer hear, and humble prayer hear.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Be thou my rock whereto I may, for ayd all times reſort, thy promiſe is to help allway; Thou art my fence and fort, thou art my fence and fort,: ſave me O God, ſave me O God, from wick<g ref="char:EOLhyphen"/>ed men, and from their rage and power: from men unjuſt, and eke from them, that would my life devour, that would my life devour.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>From men unjuſt, and eke from them, that would my life de<g ref="char:EOLhyphen"/>vour, that would my life devour, devour.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>For thou haſt kept me ſince I was born, from dangers many one, from dangers many one: Therefore all praiſe and thanks I give, to thee O Lord alone, alone, to thee; to thee, O Lord alone, O Lord a-lone.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Therefore all praiſe and thanks I give, to thee O Lord, O Lord, to thee alone, to thee alone, to thee alone. Amen, A-men, Amen.</p>
+               </sp>
+               <closer>
+                  <signed>Doctor Giles.</signed>
+               </closer>
+            </div>
+            <div n="45" type="anthem">
+               <head>Anth. XLV. <hi>The King ſhall rejoyce, O Lord.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>THe King ſhall rejoyce, O Lord,</hi> The King ſhall rejoyce in thy ſtrength, Exceeding grad ſhall he be of thy ſalvation: Thou haſt given him his hearts deſire, deſire; and haſt not denyed the requeſt of his lips, for thou doſt prevent him with the bleſſings of good<g ref="char:EOLhyphen"/>neſs, the bleſſings of goodneſs, with the bleſſings of goodneſs, and haſt ſet a Crown of pure Gold upon upon his head.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And haſt ſet a Crown of pure Gold upon his head, his head; and haſt ſet a Crown of pure Gold upon his head, a Crown of pure Gold upon his head.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>He ſhall dwell in thy Tabernacle, in thy Tabernacle for ever<g ref="char:EOLhyphen"/>more, and his truſt ſhall be under the covering, under the covering of thy wings.</p>
+               </sp>
+               <pb n="30" facs="tcp:174279:21"/>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>For thou O God haſt heard his deſires, thou haſt given an heri<g ref="char:EOLhyphen"/>tage to thoſe, thou haſt given an heritage, thou haſt given an heri<g ref="char:EOLhyphen"/>tage to thoſe that fear thy Name.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Give O Lord, the King a long life.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Give O Lord, the King a long life.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Let his years be as many ages, as many ages, as many ages.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Let his years be as many ages.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>He ſhall dwell before God for ever.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>He ſhall dwell before God for ever.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>O prepare, O prepare thy loving mercy and faithfulneſs, that they may preſerve him, that they may preſerve him, preſerve him.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>So will we always ſing, ſo will we always ſing praiſes unto thy Name, praiſes unto thy Name, in performing dayly our vows, in performing dayly our vows. A-men.</p>
+               </sp>
+            </div>
+            <div n="46" type="anthem">
+               <head>Anth. XLVI. <hi>I will magnify thee, O Lord.</hi> 
+                  <hi rend="stage">For a treble.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>A Treble</stage> 
+                     <hi>I Will magnify thee, O Lord,</hi> I will magnify thee O Lord, for thou haſt ſet me up, for thou haſt ſet me up, and not made my foes to triumph over me, and not made my foes to triumph, to triumph, to triumph, to triumph over me.</p>
+                  <p>
+                     <stage>A Mean</stage> O Lord, O Lord, O Lord, O Lord my God, O Lord my God, I have cryed unto thee, I have cryed unto thee, and thou haſt heal<g ref="char:EOLhyphen"/>ed me, and thou haſt healed me, and thou haſt healed me.</p>
+                  <p>
+                     <stage>A Mean</stage> Thou Lord haſt brought my ſoul out of Hell, thou haſt brought my ſoul out of Hell, thou haſt kept my life from them that go down, from them that go down into the pit, from them that go down into the pit, into the pit.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>
+                     <stage>4 Parts.</stage> Sing praiſes unto the Lord, O ye Saints of his.</p>
+                  <p>Sing praiſes unto the Lord, O ye Saints of his.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>And give thanks unto him.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And give thanks unto him, unto him, for a remembrance of his holineſs, for a remembrance of his holineſs, of his holineſs, for a remembrance of his holineſs.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>Contraten.</stage> Hear O Lord, hear O Lord, hear O Lord, and have mercy up<g ref="char:EOLhyphen"/>on me: O be thou my helper, O be thou my helper.</p>
+                  <p>
+                     <stage>a Treble.</stage> Thou haſt turned my heavineſs into joy, thou haſt put off my Sack-cloth, and girded me with gladneſs, with gladneſs, with gladneſs.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Therefore ſhall every good man ſing of thy praiſe without ceaſing, O my God, I will give thanks unto thee, O my God, I will give thanks unto thee, O my God, I will give thanks unto thee for evermore, for evermore, Amen, Amen.</p>
+               </sp>
+            </div>
+            <div n="47" type="anthem">
+               <pb n="31" facs="tcp:174279:21"/>
+               <head>Anth. XLVII. <hi>Lord, in thy wrath reprove me not,</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>Lord, in thy wrath reprove me not,</hi> though I deſerve thine ire, Ne yet correct me in thy rage, O Lord, O Lord, O Lord I thee deſire.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Ne yet correct me in thy rage, O Lord, O Lord, o Lord I thee deſire.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>For I am weak, therefore o Lord, of mercy me forbear, and heal me Lord for why thou knoweſt my bones do quake, my bones do quake, do quake for fear, do quake for fear.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>And heal me Lord for why thou knoweſt, for why thou know<g ref="char:EOLhyphen"/>eſt my bones do quake, my bones do quake, do quake for fear, do quake for fear.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>My ſoul is troubled very ſore, and vexed, and vexed vehement<g ref="char:EOLhyphen"/>ly: but Lord how long, how long wilt thou delay, how long, how long wilt thou delay to cue my miſery?</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>But Lord, but Lord, how long wilt thou delay, how long wilt thou delay to cure my miſery?</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Lord turn thee to thy wonted grace, my ſilly ſoul up take, my filly ſoulup take, o ſave me, o ſave me not for my deſert, but for thy mercy ſake.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>
+                     <hi>O</hi> ſave me not for my deſert, but for thy mercy ſake, but for thy mercy ſake, thy mercy ſake. A-men.</p>
+               </sp>
+            </div>
+            <div n="48" type="anthem">
+               <head>Anth. XLVIII. <hi>In thee O Lord, put I my truſt.</hi>
+               </head>
+               <sp>
+                  <speaker>
+                     <g ref="char:V">Ʋ</g>er.</speaker>
+                  <p>
+                     <hi>In thee O Lord put I my 'truſt,</hi> anſwer for me, anſwer for me, o Lord my God, anſwer for me, anſwer for me, o Lord my God: for I am brought, I am brought into ſo great miſery, great miſery, miſety and trouble; That I go mourning, that I go mourning all the day long, all the day long.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>I am feeble and ſore ſmitten, I have roared, roared: I have roared, I have roared for the very diſquietneſs of my heart, of my heart. I have roared, I have roared for the very diſquietneſs of my heart, I have roared for the very diſquietneſs of my heart, for the very diſquietneſs of my heart.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Lord thou knoweſt my deſire, my groaning is nothid from thee, is not had from thee, is not hid from thee, is not hid from thee, is not hid from thee, is not hid from thee, is not hid from thee: My heart panteth, panteth, my heart panteth, my heart panteth,
+<pb n="32" facs="tcp:174279:22"/> and my heart faileth me, faileth me: Forſake me not o Lord my God, my God, be thou not far from me, from me: Haſte thee to help me, haſte thee to help me, haſte thee to help me, haſte thee to help me, haſte thee to help me, o Lord God my ſalvation.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>
+                     <hi>O</hi> Lord God my ſalvation, ſo be it, ſo be it, ſo be it, ſo be it.</p>
+               </sp>
+            </div>
+            <div n="49" type="anthem">
+               <head>Anth. XLIX. <hi>I heard a Voice from Heaven!</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <hi>I Heard a Voice from Heaven!</hi> Saying unto me, from henceforth bleſſed are the dead which die in the Lord, for they ſhall reſt from their labour, and their works follow them.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>For they ſhall reſt from their labors: and their works follow them</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>And they ſung the ſong of the Lamb, ſaying, Great and mira<g ref="char:EOLhyphen"/>culous are thy works, great and miraculous are thy works Lord God Almighty; Juſt and true are thy wayes, juſt and true are thy wayes, thy wayes, o King of Saints.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>Great and marvailous are thy works O Lord God Almighty, Almighty; Juſt and true are thy wayes O King of Saints, thy wayes O King of Saints.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Glory be to the Father, and to the Son, and to the Holy-Ghoſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>As it was in the beginning, and is now, and ever ſhall be, world without end, Amen; without end Amen, world without end, A men, A men.</p>
+               </sp>
+            </div>
+            <div n="50" type="anthem">
+               <head>Anth. L. After the Conſecration. <hi>Quum denuo exaltavit Dominus Coronam.</hi>
+               </head>
+               <sp>
+                  <speaker>Treble</speaker>
+                  <l>NOw that the Lord hath Readvanc't the Crown</l>
+                  <l>Which thirſt of Spoyl, and Frantick Zeal pull'd down;</l>
+               </sp>
+               <sp>
+                  <speaker>Tenor,</speaker>
+                  <l>Now that the Lord the Miter hath reſtor'd,</l>
+                  <l>Which with the Crown lay in the duſt abhor'd.</l>
+               </sp>
+               <sp>
+                  <speaker>Treble.</speaker>
+                  <p>Praiſe him ye Kings,</p>
+               </sp>
+               <sp>
+                  <speaker>Tenor.</speaker>
+                  <p>Praiſe him ye Prieſts,</p>
+               </sp>
+               <sp>
+                  <speaker>Chorus, All Sing.</speaker>
+                  <p>Glory to Chriſt our High Prieſt, Higheſt King.</p>
+               </sp>
+               <sp>
+                  <speaker>Treble</speaker>
+                  <l>May Judah's Royall Scepter ſtill ſhine clear;</l>
+               </sp>
+               <sp>
+                  <speaker>Tenor</speaker>
+                  <l>May Aaron's Holy Rod ſtill Bloſſors bear.</l>
+               </sp>
+               <sp>
+                  <speaker>Treble &amp; Tenor</speaker>
+                  <l>Scepter and Rod rule ſtill, and guide our Land;</l>
+                  <l>And theſe whom God anoints, feel no rude hand;</l>
+                  <l>May Love, Peace, Plenty, wait on Crown and Chair;</l>
+                  <l>And may both ſhare in Bleſſings as in Care.</l>
+               </sp>
+               <sp>
+                  <speaker>Chorus</speaker>
+                  <l>Angels look down, and ſay to ſee,</l>
+                  <l>Like that above, A Monarchie;</l>
+                  <l>Angels look down, and joy to ſee,</l>
+                  <l>Like that above, An Hierarchy.</l>
+               </sp>
+               <closer>
+                  <signed>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ICH. HOSIER.</signed>
+               </closer>
+            </div>
+            <div n="51" type="anthem">
+               <pb n="33" facs="tcp:174279:22"/>
+               <head>Anth. LI. <hi>O God that art the well-ſpring of all Peace.</hi>
+               </head>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>2 Means.</stage> 
+                     <hi>O God, O God that art the well-ſpring of all Peace,</hi>
+                  </p>
+                  <p>Make all thy gifts, make all thy gifts in CHARLES his Raign increaſe.</p>
+                  <p>
+                     <hi>England</hi> preſerve, <hi>Scotland</hi> protect, make <hi>Ireland</hi> in thy ſervice perfect, Make <hi>Ireland</hi> in thy Service perfect.</p>
+                  <p>That all theſe Kingdoms under Great Brittains King, That all theſe Kingdoms under Great Brittains King.</p>
+                  <p>May ſtill be watered with the Goſpell Spring. May ſtill be watered with the Goſpel Spring, May ſtill be watered with the Goſpel Spring, May ſtill be watered with the Goſpel Spring, with the Goſpel Spring.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>That all theſe Kingdomes, that all theſe Kingdoms under great Brittains King.</p>
+                  <p>May ſtill be watered with the Goſpel ſpring, May ſtill be watered with the Goſpel ſpring, May ſtill be watered with the Goſpel ſpring.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>
+                     <stage>2 Means.</stage> Oh never let unhallowed breath have ſpace, to Blight / Blaſt thoſe blooming buds of union, to blight thoſe blooming buds of union; But let us all, but let us all with mutual love em<g ref="char:EOLhyphen"/>brace, one Name, one King, and one Religion.</p>
+                  <l>Ah let this Peace be thought the onely Gemme,</l>
+                  <l>That can adorn King CHARLES his Diadem.</l>
+                  <l>That can adorn King CHARLES his Diadem.</l>
+                  <l>That can adorn King CHARLES his Diadem.</l>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <l>And let this Peace be thought the onely Gemme,</l>
+                  <l>That can adorn King CHARLES his Diadem.</l>
+                  <l>That can adorn King CHARLES his Diadem.</l>
+                  <p>King CHARLES his Diadem. That can adorn King CHARLES his Diadem. Halelujah, Halelujah, &amp;c.</p>
+               </sp>
+               <sp>
+                  <speaker>Ver.</speaker>
+                  <p>Halelujah, Ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>elujah.</p>
+               </sp>
+               <sp>
+                  <speaker>Cho.</speaker>
+                  <p>A-men.</p>
+               </sp>
+               <closer>
+                  <signed>Iohn Holmes.</signed>
+               </closer>
+            </div>
+            <pb facs="tcp:174279:23"/>
+            <pb facs="tcp:174279:23"/>
+            <pb facs="tcp:174279:24"/>
+         </div>
+      </body>
+   </text>
+</TEI>
